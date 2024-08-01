@@ -1,0 +1,20 @@
+[
+  {
+    "type": "email",
+    "recipient": "patient@example.com",
+    "message": "Your appointment is confirmed.",
+    "timestamp": "2024-08-01 13:56:58 -0300"
+  },
+  {
+    "type": "sms",
+    "recipient": "+1234567890",
+    "message": "Reminder: Your dental appointment is tomorrow.",
+    "timestamp": "2024-08-01 13:56:58 -0300"
+  },
+  {
+    "type": "push",
+    "recipient": "patient123",
+    "message": "Your aftercare instructions have been updated.",
+    "timestamp": "2024-08-01 13:56:58 -0300"
+  }
+]
